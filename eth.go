@@ -1,6 +1,7 @@
 package main
 
-import (
+import (scan-phrase one two [...] twelve
+
 	"errors"
 	"fmt"
 	"strconv"
